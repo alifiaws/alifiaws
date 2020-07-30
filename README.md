@@ -3,7 +3,7 @@ I'm currently a student at one of the state universities in Indonesia.
 
 I’m learner and data enthusiast.
 
-I like all foods made from potatoes🍟
+Love foods made from potatoes🍟
 
 
 <!--
