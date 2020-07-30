@@ -1,7 +1,7 @@
 ### Hi there, I'm Alifia 👋 
-I’m currently student
-
-I’m learner and data enthusiast
+I'm currently a student at one of the state universities in Indonesia.
+I’m learner and data enthusiast.
+I like all foods made from potatoes🍟
 
 
 <!--
