@@ -1,4 +1,4 @@
-### Hi there, I'm Alifia 👋 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
+### Hi there, I'm Alifia 👋 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
 I'm currently a student at one of the State Universities in Indonesia.
 
