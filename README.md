@@ -3,7 +3,7 @@ I'm currently a student at one of the State Universities in Indonesia.
 
 ----------------------------------------------------------------------------------------------------------
 
-<img src="https://github-readme-stats.vercel.app/api?username=alifiaws&hide=contribs,prs&show_icons=true&hide_border=true&bg_color=ffffff&text_color=d1ca62&icon_color=d1ca62&custom_title=Alifia's Github Stats&title_color=ae7bbd" />
+<img src="https://github-readme-stats.vercel.app/api?username=alifiaws&hide=contribs,prs&show_icons=true&hide_border=true&bg_color=ffffff&text_color=d1ca62&icon_color=d1ca62&custom_title=Alifia's GitHub Stats&title_color=ae7bbd" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifiaws&layout=compact&bg_color=ffffff&card_width=444&hide_border=true&custom_title=Used Language&title_color=7bb876"/> 
 
