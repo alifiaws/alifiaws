@@ -1,14 +1,9 @@
 ### Hi there, I'm Alifia 👋 
-I'm currently a student at one of the state universities in Indonesia.
+I'm currently a student at one of the State Universities in Indonesia.
 
-I’m learner.
-
-Love foods made from potatoes🍟
-
-
-### Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=alifiaws&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifiaws&layout=compact" height=162  />
+
+
 <!--
 **alifiaws/alifiaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
